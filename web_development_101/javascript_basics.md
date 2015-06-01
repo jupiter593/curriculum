@@ -140,6 +140,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Alex Tsiras' solution](https://github.com/arialblack14/euler)
 * [Cory Graddy's solution](https://github.com/corygraddy/Euler-Problems-Javascript) | [View in browser](https://rawgit.com/corygraddy/Euler-Problems-Javascript/master/index.html)
 * [Mark Viola's solution](https://github.com/markviola/the-odin-project/tree/master/2-javascript-problems)
+* [Joshua Kaufmann's solution](https://github.com/jupiter593/euler) | [View in browser](http://htmlpreview.github.io/?https://github.com/jupiter593/euler/blob/master/index.html)
 * Add your solution above this line!
 
 ## Additional Resources
